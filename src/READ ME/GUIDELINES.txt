@@ -1,0 +1,35 @@
+-------------------QUESTION PAPAER GENERATOR -----------------------------------
+
+-------------------------Take note--------------------------------
+
+*the database  script is in a subfolder called database.
+*makes sure you back up your old database using export.
+*then you  refresh you database table  then use import to add data.
+
+*before you use import you can rename your current database eg question_genarator(1)
+
+
+*for lecture puporse use the email sbusiso@tut.ac.za password = password.(log in as a lecture)
+
+
+*admin is admin@tut.ac.za  password=password.(log in as an admin)
+
+*the delete,add,update is on the admin page so log in as an admin.(dml)
+
+
+*i didnt do filtering because of time if he askes just tell him you will fix it.
+
+*anything they complain about just tell them you will fix it coz they dont liked for you to oppose them
+
+*only argue when you have a point
+
+*write down the things they need to be changed because they will tell you so
+
+*i have change the database to suite the new development ]
+
+
+*DONT FORGE ON connection.php to put your ip address to connect to the data base 
+*example mysqli_connect('192.0.0.1','root','').
+
+
+******************************GOOOD LUCK********************************
